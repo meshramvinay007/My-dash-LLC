@@ -1,0 +1,57 @@
+
+  .form__div {
+    margin: 2.5% 0;
+  }
+  
+  .form__heading {
+    margin-bottom: 7%;
+  }
+  
+  .form__input {
+    width: 80%;
+    height: 2.5rem;
+    border: 1px solid rgb(188, 186, 186);
+    border-radius: 5px;
+  }
+  
+  .form__checkbox {
+    margin-right: 0.725rem;
+  }
+  
+  .is--grey {
+    color: rgb(148, 146, 146);
+  }
+  
+  .is--darkgrey {
+    color: grey;
+  }
+  
+  .form__label {
+    font-weight: 600;
+    margin-bottom: 1%;
+  }
+  
+  .form__input.is--half {
+    width: 40%;
+  }
+  
+  .form__button {
+    width: 50%;
+    background-color: rgb(96, 175, 244);
+    border: 1px solid rgb(33, 176, 237);
+    color: white;
+    height: 2.5rem;
+    font-weight: 2rem;
+    border-radius: 5px;
+  }
+  
+  .inactive {
+    background-color: grey;
+    border: 1px solid grey;
+  }
+  
+  .error__message {
+    color: red;
+    font-weight: 600;
+    size: 1rem;
+  }
